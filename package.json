@@ -4,7 +4,7 @@
   "description": "Support code for a small workshop about Node.js testing with Mocha",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/_mocha"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
