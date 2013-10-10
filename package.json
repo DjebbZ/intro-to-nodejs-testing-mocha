@@ -1,0 +1,29 @@
+{
+  "name": "intro-to-nodejs-testing-mocha",
+  "version": "0.0.0",
+  "description": "Support code for a small workshop about Node.js testing with Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DjebbZ/intro-to-nodejs-testing-mocha.git"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "mocha",
+    "workshop",
+    "tutorial",
+    "intro"
+  ],
+  "author": "Khalid Jebbari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DjebbZ/intro-to-nodejs-testing-mocha/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
+}
